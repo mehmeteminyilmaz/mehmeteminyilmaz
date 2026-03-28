@@ -34,13 +34,13 @@ const MehmetEminYılmaz = {
 
 <div align="center">
 
-| | Skills |
+| Kategori | Teknolojiler |
 | :--- | :--- |
-| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,flutter&theme=dark" /> |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,firebase&theme=dark" /> |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,c,cs&theme=dark" /> |
-| **Data Science & AI** | <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow,pytorch&theme=dark" /> |
-| **Tools & Others** | <img src="https://skillicons.dev/icons?i=git,docker,kali,linux,vscode&theme=dark" /> |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40" /> <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="40" /> <img src="https://skillicons.dev/icons?i=react" title="React" height="40" /> <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" height="40" /> <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="40" /> <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="40" /> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="40" /> <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="40" /> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="40" /> <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="40" /> <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="40" /> <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="40" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python" title="Python" height="40" /> <img src="https://skillicons.dev/icons?i=java" title="Java" height="40" /> <img src="https://skillicons.dev/icons?i=c" title="C" height="40" /> <img src="https://skillicons.dev/icons?i=cs" title="C#" height="40" /> |
+| **Data Science & AI** | <img src="https://skillicons.dev/icons?i=py" title="Python (DS)" height="40" /> <img src="https://skillicons.dev/icons?i=scikitlearn" title="Scikit-Learn" height="40" /> <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" height="40" /> <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" height="40" /> |
+| **Tools & Others** | <img src="https://skillicons.dev/icons?i=git" title="Git" height="40" /> <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="40" /> <img src="https://skillicons.dev/icons?i=kali" title="Kali Linux" height="40" /> <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40" /> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40" /> |
 
 </div>
 
