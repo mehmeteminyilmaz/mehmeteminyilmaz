@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0080,ff8c00&height=200&section=header&text=Mehmet%20Emin%20Yılmaz&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=200&section=header&text=Mehmet%20Emin%20Yılmaz&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -57,5 +57,5 @@ const MehmetEminYılmaz = {
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0080,ff8c00&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=100&section=footer" />
 </p>
