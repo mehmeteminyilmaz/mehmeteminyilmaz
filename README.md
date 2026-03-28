@@ -10,6 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=mehmeteminyilmaz&label=PROFILE+VIEWS&color=20bf6b&style=flat-square" />
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mehmeteminyilmaz/mehmeteminyilmaz/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 ---
 
 ### 🚀 Profile.js
