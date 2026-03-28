@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff,3a7bd5&height=200&section=header&text=Mehmet%20Emin%20Yılmaz&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2,f093fb,4facfe&height=200&section=header&text=Mehmet%20Emin%20Yılmaz&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00d2ff&center=true&vCenter=true&width=500&lines=Selamlar,+Ben+Mehmet+Emin;Web+%26+Mobile+Developer;Data+Science+Enthusiast;AI+%2F+ML+Explorer;Cyber+Security+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ff0080&center=true&vCenter=true&width=500&lines=Selamlar,+Ben+Mehmet+Emin;Web+%26+Mobile+Developer;Data+Science+Enthusiast;AI+%2F+ML+Explorer;Cyber+Security+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmeteminyilmaz&label=PROFILE+VIEWS&color=3a7bd5&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=mehmeteminyilmaz&label=PROFILE+VIEWS&color=f093fb&style=flat-square" />
 </p>
 
 ---
@@ -57,5 +57,5 @@ const MehmetEminYılmaz = {
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff,3a7bd5&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2,f093fb,4facfe&height=100&section=footer" />
 </p>
