@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Selamlar,+Ben+Mehmet+Emin;Web+%26+Mobile+Developer;Data+Science+Enthusiast;AI+%2F+ML+Explorer;Cyber+Security+Enthusiast" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmeteminyilmaz&label=P-VIEWS&color=58a6ff&style=flat" />
-  <img src="https://img.shields.io/github/followers/mehmeteminyilmaz?label=Followers&style=social" />
-</p>
-
 ---
 
 ### 🚀 About Me / Hakkımda
@@ -76,49 +71,12 @@
 
 ---
 
-### 📊 GitHub Analysis
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmeteminyilmaz&show_icons=true&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&hide_border=true" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmeteminyilmaz&layout=compact&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&hide_border=true" height="195px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmeteminyilmaz&theme=github_dark&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff" height="195px"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmeteminyilmaz&theme=github-compact&color=58a6ff&hide_border=true&bg_color=0d1117" height="195px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehmeteminyilmaz&theme=onedark&column=7&no-bg=true&no-frame=true&margin-w=15" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mehmeteminyilmaz/mehmeteminyilmaz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 💬 Connect with Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehmeteminyilmaz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmeteminyilmaz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/meminyilmz)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.eminyilmaz@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-emin-y%C4%B1lmaz-0a858a294/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.eminylmz2303@gmail.com)
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer" />
-</p>
