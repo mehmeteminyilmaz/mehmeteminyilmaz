@@ -49,10 +49,6 @@ const MehmetEminYılmaz = {
 ### 📊 GitHub Stats / İstatistikler
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmeteminyilmaz&show_icons=true&theme=react&bg_color=0D1117&title_color=2575fc&icon_color=6a11cb&text_color=ffffff&border_color=2575fc&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmeteminyilmaz&layout=compact&theme=react&bg_color=0D1117&title_color=2575fc&text_color=ffffff&border_color=6a11cb&hide_border=false" height="150" />
-</div>
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmeteminyilmaz&theme=react&background=0D1117&fire=2575fc&ring=6a11cb&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&currStreakLabel=2575fc&border=2575fc" height="150" />
 </div>
 
