@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Selamlar,+Ben+Mehmet+Emin;Web+%26+Mobile+Developer;Data+Science+Enthusiast;AI+%2F+ML+Explorer;Cyber+Security+Enthusiast" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehmeteminyilmaz&label=PROFILE+VIEWS&color=58a6ff&style=flat-square" />
+</p>
+
 ---
 
 ### 🚀 About Me / Hakkımda
