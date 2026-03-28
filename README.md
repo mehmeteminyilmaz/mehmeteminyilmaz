@@ -12,19 +12,21 @@
 
 ---
 
-### 🚀 About Me / Hakkımda
+### 🚀 Profile.js
 
-<div align="center">
+```javascript
+/**
+ * TR: Selam! Gerçek dünya projeleri geliştirmeyi seven bir geliştiriciyim.
+ * EN: Hello! I'm a developer passionate about building real-world projects.
+ */
 
-| English 🇺🇸 | Türkçe 🇹🇷 |
-| :--- | :--- |
-| 👋 Hello! I'm a developer passionate about building real-world projects. | 👋 Selam! Gerçek dünya projeleri geliştirmeyi seven bir geliştiriciyim. |
-| 💻 Focus: **Web & Mobile Development**. | 💻 Odak noktam: **Web ve Mobil Geliştirme**. |
-| 📊 Enthusiast: **Data Science & AI/ML**. | 📊 İlgi alanım: **Veri Bilimi ve Yapay Zeka**. |
-| 🛡️ Curious: **Cyber Security Explorer**. | 🛡️ Meraklıyım: **Siber Güvenlik Kaşifi**. |
-| 📚 Mindset: **Lifelong Learner**. | 📚 Anlayışım: **Sürekli Öğrenen**. |
-
-</div>
+const MehmetEminYılmaz = {
+  focus:      ["Web Development", "Mobile Development"],
+  learning:   ["Data Science", "AI / Machine Learning"],
+  interests:  ["Cyber Security", "Exploration"],
+  mindset:    "Lifelong Learner"
+};
+```
 
 ---
 
